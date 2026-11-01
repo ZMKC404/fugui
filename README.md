@@ -42,7 +42,7 @@
 macOS / Linux 终端执行：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/OWNER/fugui/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/ZMKC404/fugui/main/install.sh | bash
 ```
 
 脚本会自动把技能装进本机已存在的 Agent 目录（`~/.zcode/skills/`、`~/.claude/skills/`、`~/.codex/skills/`，有哪个装哪个），并校验文件完整性。

@@ -4,7 +4,7 @@
 # 效果: 把 fugui/ 技能目录装到本机已存在的 Agent skills 目录（zcode / claude / codex）
 set -euo pipefail
 
-REPO_RAW="${FUGUI_REPO_RAW:-https://raw.githubusercontent.com/OWNER/fugui/main}"
+REPO_RAW="${FUGUI_REPO_RAW:-https://raw.githubusercontent.com/ZMKC404/fugui/main}"
 TMP="$(mktemp -d)"
 trap 'rm -rf "$TMP"' EXIT
 
