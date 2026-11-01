@@ -35,6 +35,7 @@ if [ ${#TARGETS[@]} -eq 0 ]; then
 fi
 
 for t in "${TARGETS[@]}"; do
+  mkdir -p "$(dirname "$t")"
   rm -rf "$t"
   cp -R "$TMP/fugui" "$t"
   echo "✅ 已安装: $t"
