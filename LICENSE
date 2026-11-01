@@ -1,0 +1,37 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Copyright (c) 2026 fugui.skill contributors
+
+本仓库内容（SKILL.md、references/、assets/、README）以
+Creative Commons 署名-非商业性使用-相同方式共享 4.0 国际许可协议提供。
+
+简要人话版（不构成法律文本，以官方文本为准）：
+- 署名：使用时请注明来源 fugui.skill，并注明底层方法论出自情绪营销操盘手富贵的公开课体系。
+- 非商业：不得用于商业销售。想商用请先获得方法论权利人的授权。
+- 相同方式共享：改编后需以相同协议共享。
+
+底层方法论（换脑/找病/过河/落地、五层洋葱模型、社交货币等）出自富贵
+（《新IP时代，用情绪击穿人心》《穿越周期的确定性增长》《AI情绪营销》等课程），
+本仓库为学习性研究整理，权利归原作者所有；如涉侵权请联系删除。
+
+例外：install.sh 安装脚本以 MIT 许可单独提供。
+
+MIT License (install.sh only)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
