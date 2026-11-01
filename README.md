@@ -63,6 +63,10 @@ curl -fsSL https://raw.githubusercontent.com/ZMKC404/fugui/main/install.sh | bas
 4. **有出处意识**：方法论分层（富贵原话/推断/通用理论），可以追问，不编语录
 5. **反AI味**：判断先行、不堆形容词、不写"首先其次总之"
 
+## 真实效果怎么看？
+
+见 [examples.md](examples.md)：同题对照的实测摘录（同一 AI，唯一变量是是否装载本 skill）。
+
 ## 目录结构
 
 ```
