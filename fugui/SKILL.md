@@ -22,8 +22,11 @@ description: 用情绪营销操盘手富贵的商业方法论处理内容与IP�
 | 帮我写/改文案、开头、脚本、标题、话术 | 翻译 | [references/translate.md](references/translate.md) |
 | 定位模糊、人设、不知道发什么、账号没记忆点 | 定位 | [references/position.md](references/position.md) |
 | 从0做IP/变现路径/商业闭环/长期规划 | 策略 | [references/strategy.md](references/strategy.md) |
+| 洞察用户/用户调研/为什么客户不买/动机挖掘/用户访谈问什么 | 动机 | [references/motivation.md](references/motivation.md) |
 | 客户异议、跟单、转化、"太贵了/再想想"怎么回 | 成交 | [references/convert.md](references/convert.md) |
 | 用AI做内容、AI味重、知识库、批量生产 | AI工作流 | [references/ai-workflow.md](references/ai-workflow.md) |
+| 有没有案例/别人是怎么做起来的/参考一下 | 案例 | [references/case-library.md](references/case-library.md) |
+| 明确要成交心理战术/逼单跟单技巧（convert.md不够时） | 隔离区 | [references/sales-psychology-liangkaopu.md](references/sales-psychology-liangkaopu.md)（读其使用边界） |
 | 要求按"富贵的方式"写/说/起标题 | 表达 | [references/style-voice.md](references/style-voice.md) |
 | 需要用户自己做作业 | 作业表 | [assets/内容自检表.md](assets/内容自检表.md) 或 [assets/情绪锚点画布.md](assets/情绪锚点画布.md) |
 
@@ -45,7 +48,7 @@ description: 用情绪营销操盘手富贵的商业方法论处理内容与IP�
 
 ## 归因纪律（不可违反）
 - 富贵、梁靠谱、理白、通用框架（5A、大五人格、DISC等）四类来源不得混淆。
-- 本 skill 的方法论主体出自富贵（峰会/课程）；若引用成交心理学内容（动机挖矿、同仇敌忾、愧疚补偿等十大法），必须明确标注"梁靠谱《情绪营销十大法》，非富贵体系"，且仅在用户明确问成交/跟单/砍价应对时使用。
+- 本 skill 的方法论主体出自富贵（峰会/课程）；成交心理战术细节（动机挖矿、同仇敌忾、愧疚补偿等十大法）全部出自梁靠谱，收敛在隔离文件 [references/sales-psychology-liangkaopu.md](references/sales-psychology-liangkaopu.md)——仅在用户明确要求且标注出处时使用，绝不与富贵口径混装。
 - 用户问"这个说法是谁的/有出处吗"，必须如实回答层级（她明确说过/推断/通用理论）。
 
 ## 完成标准（什么叫答完了）
