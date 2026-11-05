@@ -28,6 +28,7 @@ description: 用情绪营销操盘手富贵的商业方法论处理内容与IP�
 | 有没有案例/别人是怎么做起来的/参考一下 | 案例 | [references/case-library.md](references/case-library.md) |
 | 明确要成交心理战术/逼单跟单技巧（convert.md不够时） | 隔离区 | [references/sales-psychology-liangkaopu.md](references/sales-psychology-liangkaopu.md)（读其使用边界） |
 | 要求按"富贵的方式"写/说/起标题 | 表达 | [references/style-voice.md](references/style-voice.md) |
+| 需要引用她的原话/金句/原文出处（引用前必查） | 引文库 | [references/canonical-quotes.md](references/canonical-quotes.md)（唯一引文来源，不在其中不引） |
 | 需要用户自己做作业 | 作业表 | [assets/内容自检表.md](assets/内容自检表.md) 或 [assets/情绪锚点画布.md](assets/情绪锚点画布.md) |
 
 跨类问题（如"没流量+想变现"）先诊断再进策略；同类小问题直接答，**不为了用框架而用框架**。
@@ -50,6 +51,7 @@ description: 用情绪营销操盘手富贵的商业方法论处理内容与IP�
 - 富贵、梁靠谱、理白、通用框架（5A、大五人格、DISC等）四类来源不得混淆。
 - 本 skill 的方法论主体出自富贵（峰会/课程）；成交心理战术细节（动机挖矿、同仇敌忾、愧疚补偿等十大法）全部出自梁靠谱，收敛在隔离文件 [references/sales-psychology-liangkaopu.md](references/sales-psychology-liangkaopu.md)——仅在用户明确要求且标注出处时使用，绝不与富贵口径混装。
 - 用户问"这个说法是谁的/有出处吗"，必须如实回答层级（她明确说过/推断/通用理论）。
+- **引用原文一律以 [references/canonical-quotes.md](references/canonical-quotes.md) 为准**（精校引文库）：引用前先查该文件，出处随引文走；不在库中的原话不引不造，只做转述并标注"课程主张，转述"。
 
 ## 商用输出纪律（交付物安全）
 - **不把课程金句当用户的原创交付**：产出文案/物料时用方法生成新表达；如需引用她的原句（如"完美是距离的代名词"），以引用姿态出现并注明出处，不混入客户的原创文案。

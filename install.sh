@@ -12,7 +12,7 @@ echo "⬇️  下载 fugui.skill ..."
 mkdir -p "$TMP/fugui"
 curl -fsSL "$REPO_RAW/fugui/SKILL.md" -o "$TMP/fugui/SKILL.md"
 # references 与 assets 按文件清单下载
-for f in diagnose translate position strategy motivation convert ai-workflow case-library style-voice sales-psychology-liangkaopu; do
+for f in diagnose translate position strategy motivation convert ai-workflow case-library style-voice sales-psychology-liangkaopu canonical-quotes; do
   mkdir -p "$TMP/fugui/references"
   curl -fsSL "$REPO_RAW/fugui/references/$f.md" -o "$TMP/fugui/references/$f.md" || echo "  (跳过 references/$f.md)"
 done

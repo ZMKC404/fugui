@@ -68,14 +68,16 @@ curl -fsSL https://raw.githubusercontent.com/ZMKC404/fugui/main/install.sh | bas
 ## 真实效果怎么看？
 
 见 [examples.md](examples.md)：同题对照的实测摘录（同一 AI，唯一变量是是否装载本 skill）。
+学习方法论与五行业压测成果见 [docs/OKR-学习与压测成果.md](docs/OKR-学习与压测成果.md)（研究参考）。
 
 ## 目录结构
 
 ```
 fugui/
 ├── SKILL.md          # 触发路由 + 判断纪律 + 完成标准
-├── references/       # 九大能力：诊断/翻译/定位/策略/动机/成交/AI工作流/案例库/表达风格
-│   │                 # （+ 隔离区：梁靠谱成交心理战术，标注归属、按需启用）
+├── references/       # 十大能力：诊断/翻译/定位/策略/动机/成交/AI工作流/案例库/表达风格
+│   │                 #   + canonical-quotes.md（精校原文引用库：约50条逐字核校的课程原句，引用唯一来源）
+│   │                 #   + 隔离区：梁靠谱成交心理战术，标注归属、按需启用
 └── assets/           # 作业模板：内容自检表、情绪锚点画布
 ```
 
