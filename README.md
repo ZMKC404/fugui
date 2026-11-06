@@ -41,13 +41,22 @@
 
 ## 安装（一条命令）
 
-macOS / Linux 终端执行：
+**常规（macOS / Linux 终端）：**
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ZMKC404/fugui/main/install.sh | bash
 ```
 
-脚本会自动把技能装进本机已存在的 Agent 目录（`~/.zcode/skills/`、`~/.claude/skills/`、`~/.codex/skills/`，有哪个装哪个），并校验文件完整性。
+**若 raw.githubusercontent.com 不可达（网络受限环境常见，如连接被重置）：**
+
+```bash
+# 方式B：codeload 管道（不依赖 raw）
+curl -fsSL https://codeload.github.com/ZMKC404/fugui/tar.gz/refs/heads/main | tar -xz -C /tmp fugui-main/install.sh && bash /tmp/fugui-main/install.sh
+# 方式C：git clone（同样不依赖 raw）
+git clone --depth 1 https://github.com/ZMKC404/fugui /tmp/fugui_repo -q && bash /tmp/fugui_repo/install.sh
+```
+
+安装器内部为**双通道**：内容优先 raw 按文件下载，失败自动回退 codeload 整包（两种入口均已实测）。脚本会自动把技能装进本机已存在的 Agent 目录（`~/.zcode/skills/`、`~/.claude/skills/`、`~/.codex/skills/`，有哪个装哪个），并校验文件完整性。
 
 装完后**新开一个会话**，直接说人话：
 
